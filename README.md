@@ -25,5 +25,3 @@ One platform note: the input path is hardcoded as `Resources\prova.txt` with a W
 - `Classses/BinaryTreeNode.java` — tree nodes
 - `Classses/Main.java` — entry point wiring everything together
 - `Resources/prova.txt` — sample input
-
-Yes, the folder really is named "Classses". It was 2021.
