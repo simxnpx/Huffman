@@ -1,6 +1,6 @@
 # Huffman
 
-A Huffman coding implementation in Java. University project from 2021.
+A Huffman coding implementation in Java, built for a university exam.
 
 It reads a UTF-8 text file, counts character frequencies, builds the optimal prefix tree using a hand-written binary min-heap, encodes the text into its bit string, then decodes the bit string back and prints the result. Each phase reports how long it took in milliseconds.
 
